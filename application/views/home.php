@@ -28,25 +28,27 @@
                 <div class="fill");"><img src="images/spassage.png" alt="..." style="width:100%;"></div>
 
 
-                <div class="hero img-responsive" >        
-        <hgroup>
-        <h2>Bem-Vindo a</h2>
+        <div class="hero img-responsive" >        
+            <hgroup>
+            <h2>Bem-Vindo a</h2>
            <img src="images/re9slider.png"/></a>
-        </hgroup>       
-      </div>
+            </hgroup>       
+        </div>
   
+        </div>
+        
+        <div class="item">
+            <!-- Set the second background image using inline CSS below. -->
+            <div class="fill");"><img src="images/srock.png" alt="..." style="width:100%;">
             </div>
-            <div class="item">
-                <!-- Set the second background image using inline CSS below. -->
-                <div class="fill");"><img src="images/srock.png" alt="..." style="width:100%;"></div>
             <div class="hero">        
-        <hgroup>
-        <h2>Bem-Vindo a</h2>
-           <img src="images/re9slider.png"/>
-        </hgroup>       
-      </div>
-
+            <hgroup>
+            <h2>Bem-Vindo a</h2>
+            <img src="images/re9slider.png"/>
+            </hgroup>       
             </div>
+        </div> 
+        
             <div class="item">
                 <!-- Set the third background image using inline CSS below. -->
                 <div class="fill");"><img src="images/snature.jpg" alt="..." style="width:100%;"></div>

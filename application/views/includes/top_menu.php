@@ -20,7 +20,7 @@
       </ul>
 
 <div class="nav navbar-nav icon123">
-      <a style="padding-left: 20px; padding-right: 15px;" href="https://www.facebook.com/re9web" target="_blank"><i class="fa fa-facebook lg" style="color: #ef3f3f;"></i>  </a>
+      <a style="padding-left: 30px; padding-right: 15px;" href="https://www.facebook.com/re9web" target="_blank"><i class="fa fa-facebook lg" style="color: #ef3f3f;"></i>  </a>
       
       <a href="mailto:contato@re9web.com.br" target="_blank"><i class="fa fa-envelope-o lg" style="color: #ef3f3f;"></i>  </a>
              
